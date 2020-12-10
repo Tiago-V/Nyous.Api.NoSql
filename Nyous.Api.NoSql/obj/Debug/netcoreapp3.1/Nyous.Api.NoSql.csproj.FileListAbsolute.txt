@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\bin\Debug\netcoreapp3.1\Nyous.Api.NoSql.exe
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\obj\Debug\netcoreapp3.1\Nyous.Api.NoSql.csprojAssemblyReference.cache
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\obj\Debug\netcoreapp3.1\Nyous.Api.NoSql.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\obj\Debug\netcoreapp3.1\Nyous.Api.NoSql.AssemblyInfo.cs
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\obj\Debug\netcoreapp3.1\Nyous.Api.NoSql.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\obj\Debug\netcoreapp3.1\staticwebassets\Nyous.Api.NoSql.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\Senai\Sprint 5\NoSQL Nyous\Nyous.Api.NoSql\Nyous.Api.NoSql\obj\Debug\netcoreapp3.1\staticwebassets\Nyous.Api.NoSql.StaticWebAssets.xml
